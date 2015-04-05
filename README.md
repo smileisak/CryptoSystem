@@ -18,4 +18,5 @@ To test the  Beta version just:
 ```
 And Enjoy !
 
+![alt tag](http://img15.hostingpics.net/pics/470956securitalk.png)
 All kind of contribution are permited. Thank you
